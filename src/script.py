@@ -1,5 +1,5 @@
 
-# Programa para calcular el promedio de una lista de números
+# Programa para calcular el promedio de una lista de números.
 
 print("Bienvenido al programa de cálculo de promedios.")
 print("Ingresa números uno por uno. Escribe 'salir' para terminar.")
