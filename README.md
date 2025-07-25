@@ -67,7 +67,7 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
     
 4. **Documentación:**
     - Dentro de la carpeta `docs`, crea los siguientes archivos de tipo Markdown (.md):
-        - `uso_consola.md`: Describe los conceptos aprendidos sobre cómo usar la consola para navegar y crear directorios y archivos. Haz un listado de los principales comandos utilizados en esta unidad.
+        - `uso_consola.md`: Describe los conceptos aprendidos sobre cómo usar la consola para navegar y crear directorios y archivos. Haz un listado de los principales comandos utilizados en esta unidad
         - `repositorio_local.md`: Explica cómo crear un repositorio local con comandos de Git.
         - `repositorio_remoto.md`: Detalla el proceso para crear un repositorio remoto en GitHub y sincronizarlo con el repositorio local.
 5. **Archivo README.md:**
