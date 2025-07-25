@@ -1,7 +1,9 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante:  sebastian avella calderon
+Id.:  000589427
+
 ---
 # Evaluación
 
@@ -65,7 +67,7 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
     
 4. **Documentación:**
     - Dentro de la carpeta `docs`, crea los siguientes archivos de tipo Markdown (.md):
-        - `uso_consola.md`: Describe los conceptos aprendidos sobre cómo usar la consola para navegar y crear directorios y archivos. Haz un listado de los principales comandos utilizados en esta unidad.
+        - `uso_consola.md`: Describe los conceptos aprendidos sobre cómo usar la consola para navegar y crear directorios y archivos. Haz un listado de los principales comandos utilizados en esta unidad
         - `repositorio_local.md`: Explica cómo crear un repositorio local con comandos de Git.
         - `repositorio_remoto.md`: Detalla el proceso para crear un repositorio remoto en GitHub y sincronizarlo con el repositorio local.
 5. **Archivo README.md:**
